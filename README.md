@@ -4,6 +4,9 @@ List of TTS papers with audio samples provided by the authors. The last rows of 
 
 ## 2020
 
+- [EATS](https://arxiv.org/abs/2006.03575) - End-to-End Adversarial Text-to-Speech
+  - https://deepmind.com/research/publications/End-to-End-Adversarial-Text-to-Speech
+  - End-to-end model
 - [Glow-TTS](https://arxiv.org/abs/2005.11129) - Glow-TTS: A Generative Flow for Text-to-Speech via Monotonic Alignment Search
   - https://jaywalnut310.github.io/glow-tts-demo
   - WaveGlow
