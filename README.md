@@ -4,6 +4,9 @@ List of TTS papers with audio samples provided by the authors. The last rows of 
 
 ## 2020
 
+- [FastPitch](https://arxiv.org/abs/2006.06873) - FastPitch: Parallel Text-to-speech with Pitch Prediction
+  - https://fastpitch.github.io/
+  - WaveGlow
 - [EATS](https://arxiv.org/abs/2006.03575) - End-to-End Adversarial Text-to-Speech
   - https://deepmind.com/research/publications/End-to-End-Adversarial-Text-to-Speech
   - End-to-end model
