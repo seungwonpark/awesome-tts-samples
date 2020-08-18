@@ -1,6 +1,8 @@
 # awesome-tts-samples
 
-List of TTS papers with audio samples provided by the authors. The last rows of each paper show the spectrogram inversion (vocoder) being used.
+List of TTS papers **with audio samples** provided by the authors. The last rows of each paper show the spectrogram inversion (vocoder) being used.
+
+For more comprehensive list of important TTS papers, I recommmend reading [xcmyz/speech-synthesis-paper](https://github.com/xcmyz/speech-synthesis-paper) written by Zhengxi Liu.
 
 ## 2020
 
